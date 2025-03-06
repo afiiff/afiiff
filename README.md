@@ -2,7 +2,7 @@
 <h3 align="center">Programmer and Gamer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&color=00C9A7&center=true&vCenter=true&width=600&lines=Programmer+%7C+Gamer;Code+Hard,+Play+Harder!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&color=00C9A7&center=true&vCenter=true&width=600&lines=Programmer+%7C+Gamer;Code+Hard,+Play+Harder!" alt="Typing Animation" />
 </p>
 
 <p align="center">
