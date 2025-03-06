@@ -15,47 +15,36 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRnY3lqcmpwNGs4ejVrcG45aWN4bWttc3dsbzVtdmY1dWwyZXZzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif" width="500" alt="Gaming GIF" />
 </p>
 
----
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <h3>🎓 Currently Studying</h3>
-      🌱 Studying at <b>Universitas Negeri Padang</b><br>
-      🔥 Learning: <b>C, C++, Python</b>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h3>📬 Contact Me</h3>
-      <a href="https://www.instagram.com/apiip_04/" target="_blank">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
-      </a>
-      <br>
-      <a href="mailto:apiip.farabi1212@gmail.com">
-        <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h3>🎮 Hobbies & Interests</h3>
-      🎮 Playing MOBA & strategy games<br>
-      📺 Watching anime<br>
-      🏋️‍♂️ Swimming & gym
-    </td>
-  </tr>
-</table>
 
 ---
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="100%">
-      <h3>🔧 Open to Collaboration</h3>
-      🤝 Learning to code together<br>
-      🎮 Playing and discussing games<br>
-      💡 Exploring new tech & projects
-    </td>
-  </tr>
-</table>
+- 🌱 I'm currently studying at *Universitas Negeri Padang*  
+- 🔥 I'm currently learning *C, C++, Python,*
 
+---
+
+### 📬 Contact Me
+
+<p align="center">
+  <a href="https://www.instagram.com/apiip_04/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+    <a href="mailto:apiip.farabi1212@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🎮 Hobbies and Interests
+- 🎮 Gaming: Enjoy playing all types of games, especially competitive MOBA and strategy games.
+- 📺 Anime: Love watching various anime series.
+- ⚽ Sports: Enjoy swimming and going to the gym.
+
+---
+
+### 🔧 Open to Collaboration
+I’m open to collaborating on:
+- Learning to code together.
+- Playing and discussing games.
+- Exploring new technologies and projects.
+  
 ---
 
 <p align="center">
