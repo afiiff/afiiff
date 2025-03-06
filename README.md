@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Afiif Alfarabi</h1>
-<h3 align="center">Programmer and Gamer</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
+  Hey there, I'm <span style="color:#00C9A7;">Afiif Alfarabi</span>!
+</h1>
+
+<p align="center">
+  🚀 Passionate Programmer | 🎮 Hardcore Gamer
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&color=00C9A7&center=true&vCenter=true&width=600&lines=Programmer+%7C+Gamer;Code+Hard,+Play+Harder!" alt="Typing Animation" />
