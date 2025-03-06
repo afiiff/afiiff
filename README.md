@@ -46,3 +46,7 @@ I’m open to collaborating on:
 - Exploring new technologies and projects.
   
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="100" alt="Kyubey GIF"/>
+</p>
