@@ -17,67 +17,44 @@
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>🎓 Currently Studying</h3>
-        <p>🌱 I'm currently studying at <b>Universitas Negeri Padang</b></p>
-        <p>🔥 Currently learning: <b>C, C++, Python</b></p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h3>🎓 Currently Studying</h3>
+      🌱 Studying at <b>Universitas Negeri Padang</b><br>
+      🔥 Learning: <b>C, C++, Python</b>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>📬 Contact Me</h3>
+      <a href="https://www.instagram.com/apiip_04/" target="_blank">
+        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+      </a>
+      <br>
+      <a href="mailto:apiip.farabi1212@gmail.com">
+        <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🎮 Hobbies & Interests</h3>
+      🎮 Playing MOBA & strategy games<br>
+      📺 Watching anime<br>
+      🏋️‍♂️ Swimming & gym
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>📬 Contact Me</h3>
-        <p>
-          <a href="https://www.instagram.com/apiip_04/" target="_blank">
-            <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
-          </a>
-          <a href="mailto:apiip.farabi1212@gmail.com">
-            <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>🎮 Hobbies and Interests</h3>
-        <p>🎮 Enjoy playing all types of games, especially competitive MOBA and strategy games.</p>
-        <p>📺 Love watching various anime series.</p>
-        <p>🏋️‍♂️ Enjoy swimming and going to the gym.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>🔧 Open to Collaboration</h3>
-        <p>🤝 Learning to code together.</p>
-        <p>🎮 Playing and discussing games.</p>
-        <p>💡 Exploring new technologies and projects.</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="100%">
+      <h3>🔧 Open to Collaboration</h3>
+      🤝 Learning to code together<br>
+      🎮 Playing and discussing games<br>
+      💡 Exploring new tech & projects
+    </td>
+  </tr>
+</table>
 
 ---
 
