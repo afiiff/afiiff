@@ -32,10 +32,10 @@
   <a href="mailto:apiip.farabi1212@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
+  <a href="https://discord.com/users/597424471800021002" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://steamcommunity.com/id/your-steam-id" target="_blank">
+  <a href="https://steamcommunity.com/profiles/76561198894710319/" target="_blank">
     <img alt="Steam" src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
 </p>
