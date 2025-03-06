@@ -27,7 +27,13 @@
 
 <p align="center">
   <a href="https://www.instagram.com/apiip_04/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-    <a href="mailto:apiip.farabi1212@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:apiip.farabi1212@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord">
+  </a>
+  <a href="https://steamcommunity.com/id/your-steam-id" target="_blank">
+    <img src="https://skillicons.dev/icons?i=steam" width="40" alt="Steam">
+  </a>
 </p>
 
 ---
