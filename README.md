@@ -15,36 +15,70 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRnY3lqcmpwNGs4ejVrcG45aWN4bWttc3dsbzVtdmY1dWwyZXZzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif" width="500" alt="Gaming GIF" />
 </p>
 
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>🎓 Currently Studying</h3>
+        <p>🌱 I'm currently studying at <b>Universitas Negeri Padang</b></p>
+        <p>🔥 Currently learning: <b>C, C++, Python</b></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-- 🌱 I'm currently studying at *Universitas Negeri Padang*  
-- 🔥 I'm currently learning *C, C++, Python,*
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>📬 Contact Me</h3>
+        <p>
+          <a href="https://www.instagram.com/apiip_04/" target="_blank">
+            <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+          </a>
+          <a href="mailto:apiip.farabi1212@gmail.com">
+            <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 📬 Contact Me
-
-<p align="center">
-  <a href="https://www.instagram.com/apiip_04/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-    <a href="mailto:apiip.farabi1212@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>🎮 Hobbies and Interests</h3>
+        <p>🎮 Enjoy playing all types of games, especially competitive MOBA and strategy games.</p>
+        <p>📺 Love watching various anime series.</p>
+        <p>🏋️‍♂️ Enjoy swimming and going to the gym.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🎮 Hobbies and Interests
-- 🎮 Gaming: Enjoy playing all types of games, especially competitive MOBA and strategy games.
-- 📺 Anime: Love watching various anime series.
-- ⚽ Sports: Enjoy swimming and going to the gym.
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>🔧 Open to Collaboration</h3>
+        <p>🤝 Learning to code together.</p>
+        <p>🎮 Playing and discussing games.</p>
+        <p>💡 Exploring new technologies and projects.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
-
-### 🔧 Open to Collaboration
-I’m open to collaborating on:
-- Learning to code together.
-- Playing and discussing games.
-- Exploring new technologies and projects.
-  
 ---
 
 <p align="center">
