@@ -15,22 +15,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRnY3lqcmpwNGs4ejVrcG45aWN4bWttc3dsbzVtdmY1dWwyZXZzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif" width="500" alt="Gaming GIF" />
 </p>
 
-
-<div class="animated-line"></div>
-<style>
-    .animated-line {
-        width: 100%;
-        height: 3px;
-        background: linear-gradient(90deg, #00d4ff, #8a2be2, #ff00ff);
-        background-size: 200% 100%;
-        animation: moveGradient 3s linear infinite;
-    }
-
-    @keyframes moveGradient {
-        0% { background-position: 0% 50%; }
-        100% { background-position: 100% 50%; }
-    }
-</style>
+---
 
 - 🌱 I'm currently studying at *Universitas Negeri Padang*  
 - 🔥 I'm currently learning *C, C++, Python,*
