@@ -62,6 +62,6 @@ I’m open to collaborating on:
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="100" alt="Kyubey GIF"/>
 </p>
 
-![Visitor Count](https://afiiff.github.io/visitor/)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/afiiff/visitor&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 
 
