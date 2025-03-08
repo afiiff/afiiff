@@ -63,4 +63,10 @@ I’m open to collaborating on:
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/afiiff/visitor&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 
+<div align="center">
+ <b style = {font-weight: 600}>Visitors Count</b>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rainy1501}/count.svg" /></p> 
+<br>
+</div>
+
 
