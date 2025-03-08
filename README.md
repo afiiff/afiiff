@@ -68,5 +68,13 @@ I’m open to collaborating on:
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{afiiff}/count.svg" /></p> 
 <br>
 </div>
+<!-- Contoh Implementasi FreeCounterStat -->
+<div align="center">
+    <b style="font-weight: 600;">Visitors Count</b>
+    <p align="center">
+        <img src="https://www.freecounterstat.com/counter.php?i=afiiff" alt="visitor counter">
+    </p>
+</div>
+
 
 
