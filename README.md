@@ -61,8 +61,6 @@ I’m open to collaborating on:
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="100" alt="Kyubey GIF"/>
 </p>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/afiiff/visitor&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
-
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{afiiff}/count.svg" /></p> 
@@ -71,9 +69,6 @@ I’m open to collaborating on:
 
 <div align="center">
     <b style="font-weight: 600;">Visitors Count</b>
-    <div id="sfc88ffacnl1l6f5mwsxzlqdfhlhpthuaq2"></div>
-    <script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=88ffacnl1l6f5mwsxzlqdfhlhpthuaq2&down=async" async></script>
-    <noscript>
         <a href="https://www.freecounterstat.com" title="free counter">
             <img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=88ffacnl1l6f5mwsxzlqdfhlhpthuaq2" border="0" title="free counter" alt="free counter">
         </a>
