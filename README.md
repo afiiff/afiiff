@@ -65,7 +65,7 @@ I’m open to collaborating on:
 
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rainy1501}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{afiiff}/count.svg" /></p> 
 <br>
 </div>
 
