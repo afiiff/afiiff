@@ -70,7 +70,7 @@ I’m open to collaborating on:
 <div align="center">
     <b style="font-weight: 600;">Visitors Count</b>
         <a href="https://www.freecounterstat.com" title="free counter">
-            <img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=88ffacnl1l6f5mwsxzlqdfhlhpthuaq2" border="0" title="free counter" alt="free counter">
+            <img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=afiiff" border="0" title="free counter" alt="free counter">
         </a>
     </noscript>
 </div>
