@@ -68,13 +68,18 @@ I’m open to collaborating on:
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{afiiff}/count.svg" /></p> 
 <br>
 </div>
-<!-- Contoh Implementasi FreeCounterStat -->
+
 <div align="center">
     <b style="font-weight: 600;">Visitors Count</b>
-    <p align="center">
-        <img src="https://www.freecounterstat.com/counter.php?i=afiiff" alt="visitor counter">
-    </p>
+    <div id="sfc88ffacnl1l6f5mwsxzlqdfhlhpthuaq2"></div>
+    <script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=88ffacnl1l6f5mwsxzlqdfhlhpthuaq2&down=async" async></script>
+    <noscript>
+        <a href="https://www.freecounterstat.com" title="free counter">
+            <img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=88ffacnl1l6f5mwsxzlqdfhlhpthuaq2" border="0" title="free counter" alt="free counter">
+        </a>
+    </noscript>
 </div>
+
 
 
 
