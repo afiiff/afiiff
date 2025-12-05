@@ -61,11 +61,6 @@ I’m open to collaborating on:
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="100" alt="Kyubey GIF"/>
 </p>
 
-<div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{afiiff}/count.svg" /></p> 
-<br>
-</div>
 
 
 
